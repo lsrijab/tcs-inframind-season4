@@ -1,0 +1,45 @@
+z Python Advantages and Disadvantages
+
+Advantages »@
+
+i
+|
+0
+v
+
+Improved Productivity
+
+Interpreted Language
+
+Dynamically Typed
+
+Free and Open Source
+
+Vast Libraries Support
+
+ 
+
+  
+
+9 Disadvantages
+
+CG) Slow Speed
+
+ 
+  
+  
+   
+  
+   
+
+E(7) Not Memory Efficient
+
+ 
+
+fe Weak in Mobile
+= Computing
+
+Database Access
+
+Runtime Errors
+
